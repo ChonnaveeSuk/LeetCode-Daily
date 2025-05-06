@@ -1,0 +1,17 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Rust build output
+target/
+**/*.rs.bk
+*.pdb
+*.exe
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
